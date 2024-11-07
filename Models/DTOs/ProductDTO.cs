@@ -1,8 +1,6 @@
-using System.Text.Json.Serialization;
+namespace Product_Catalog.Properties.Models.DTOs;
 
-namespace Product_Catalog.Properties.Models;
-
-public class Product
+public class ProductDTO
 {
     public int Id { get; set; }
     public string Name { get; set; }
@@ -10,5 +8,4 @@ public class Product
     public int StockQuantity { get; set; }
     public int CategoryId { get; set; }
 
-    public Category? Category { get; set; }
 }

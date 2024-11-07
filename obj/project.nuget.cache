@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l51X8raQZD8=",
+  "dgSpecHash": "aWSpYb/myZg=",
   "success": true,
   "projectFilePath": "/Users/serhiy12345/RiderProjects/Online/Product Catalog/Product Catalog.csproj",
   "expectedPackageFiles": [
+    "/Users/serhiy12345/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

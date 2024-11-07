@@ -133,3 +133,5 @@
 /Users/serhiy12345/RiderProjects/Online/Product Catalog/obj/Debug/net8.0/Product Catalog.pdb
 /Users/serhiy12345/RiderProjects/Online/Product Catalog/obj/Debug/net8.0/Product Catalog.genruntimeconfig.cache
 /Users/serhiy12345/RiderProjects/Online/Product Catalog/obj/Debug/net8.0/ref/Product Catalog.dll
+/Users/serhiy12345/RiderProjects/Online/Product Catalog/obj/Debug/net8.0/Product Catalog.sourcelink.json
+/Users/serhiy12345/RiderProjects/Online/Product Catalog/bin/Debug/net8.0/AutoMapper.dll

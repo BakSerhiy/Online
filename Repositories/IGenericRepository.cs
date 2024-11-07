@@ -1,3 +1,5 @@
+using Product_Catalog.Properties.Models;
+
 namespace Product_Catalog.Repositories;
 
 public interface IGenericRepository<T> where T : class
@@ -7,4 +9,5 @@ public interface IGenericRepository<T> where T : class
     Task AddAsync(T entity);
     Task UpdateAsync(T entity);
     Task DeleteAsync(int id);
+    
 }
