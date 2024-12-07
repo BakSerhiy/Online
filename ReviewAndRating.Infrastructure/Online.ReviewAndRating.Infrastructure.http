@@ -1,0 +1,6 @@
+@Online.ReviewAndRating.Infrastructure_HostAddress = http://localhost:5031
+
+GET {{Online.ReviewAndRating.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
