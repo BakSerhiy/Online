@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "NER9Au3vXVI=",
+  "dgSpecHash": "IZFXRw9YCQ4=",
   "success": false,
   "projectFilePath": "/Users/serhiy12345/RiderProjects/Online/ReviewAndRating.WebAPI/ReviewAndRating.WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/serhiy12345/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/fluentvalidation/11.11.0/fluentvalidation.11.11.0.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.11.0/fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "/Users/serhiy12345/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/Users/serhiy12345/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/microsoft.aspnetcore.jsonpatch/8.0.11/microsoft.aspnetcore.jsonpatch.8.0.11.nupkg.sha512",
     "/Users/serhiy12345/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/8.0.11/microsoft.aspnetcore.mvc.newtonsoftjson.8.0.11.nupkg.sha512",

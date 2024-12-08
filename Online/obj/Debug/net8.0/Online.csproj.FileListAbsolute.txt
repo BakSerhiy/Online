@@ -48,3 +48,4 @@
 /Users/serhiy12345/RiderProjects/Online/Online/obj/Debug/net8.0/Online.pdb
 /Users/serhiy12345/RiderProjects/Online/Online/obj/Debug/net8.0/Online.genruntimeconfig.cache
 /Users/serhiy12345/RiderProjects/Online/Online/obj/Debug/net8.0/ref/Online.dll
+/Users/serhiy12345/RiderProjects/Online/Online/obj/Debug/net8.0/Online.sourcelink.json
